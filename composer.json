@@ -11,8 +11,8 @@
 	],
 	"license": "MIT",
 	"autoload": {
-		"psr-0" : {
-			"yii2\centrifugo" : ".."
+		"psr-4": {
+			"yii2\\centrifugo\\": ["."]
 		}
 	},
 	"require": {
