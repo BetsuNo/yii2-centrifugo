@@ -5,14 +5,13 @@ Run command in shell
 ```shell
 > php composer.phar require "betsuno/yii2-centrifugo"
 ```
-or add
+or add this line in to the `require` section of the `composer.json` file in your project 
 ```json
 "betsuno/yii2-centrifugo": "*"
 ```
-in the `require` section of the `composer.json` file in your project 
 
 ## Setup
-Add 
+Add into your config file as following
 ```php
 'components' => [
 	...
