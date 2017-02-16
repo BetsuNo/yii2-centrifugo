@@ -1,0 +1,22 @@
+{
+	"name": "betsuno/yii2-centrifugo",
+	"description": "Centrifugo component for Yii2 framework",
+	"type": "library",
+	"version": "0.1",
+	"authors": [
+		{
+			"name": "BetsuNo",
+			"email": "betsuno.git@yandex.ru"
+		}
+	],
+	"license": "MIT",
+	"autoload": {
+		"psr-0" : {
+			"yii2\centrifugo" : ".."
+		}
+	},
+	"require": {
+		"yiisoft/yii2": "^2.0",
+		"sl4mmer/phpcent": "^1.0"
+	}
+}
