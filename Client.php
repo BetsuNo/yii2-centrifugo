@@ -6,7 +6,7 @@ use yii\base\Model;
 
 /**
  * Class Centrifugo
- * @package common\components
+ * @package yii2\centrifugo
  * @property string $host
  * @property string $secret write-only
  * @property \phpcent\Client $client read-only
