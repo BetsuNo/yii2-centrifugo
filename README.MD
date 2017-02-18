@@ -1,5 +1,5 @@
 # Yii2 Centrifugo Component
-
+There is a wrapper for [Centrifugo](https://github.com/centrifugal/centrifugo) client based on [PHPCent](https://github.com/centrifugal/phpcent)
 ## Installation
 Run command in shell
 ```shell
